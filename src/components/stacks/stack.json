@@ -1,0 +1,118 @@
+{
+   "languages": [
+      {
+         "name": "Php",
+         "percent": 80,
+         "image": "languages/php.png"
+      },
+      {
+         "name": "Mysql",
+         "percent": 80,
+         "image": "languages/mysql.png"
+      },
+      {
+         "name": "Html",
+         "percent": 80,
+         "image": "languages/html.png"
+      },
+      {
+         "name": "Css",
+         "percent": 60,
+         "image": "languages/css.png"
+      },
+      {
+         "name": "Bootstrap",
+         "percent": 60,
+         "image": "languages/bootstrap.png"
+      },
+      {
+         "name": "Js",
+         "percent": 70,
+         "image": "languages/js.png"
+      },
+      {
+         "name": "Vue",
+         "percent": 50,
+         "image": "languages/vue.png"
+      },
+      {
+         "name": "Node",
+         "percent": 40,
+         "image": "languages/node.png"
+      },
+      {
+         "name": "Json",
+         "percent": 80,
+         "image": "languages/json.png"
+      }
+   ],
+   "Tools": [
+      {
+         "name": "Laravel",
+         "percent": 80,
+         "image": "languages/laravel.png"
+      },
+      {
+         "name": "Docker",
+         "percent": 60,
+         "image": "languages/docker.png"
+      },
+      {
+         "name": "Gitlab",
+         "percent": 70,
+         "image": "languages/gitlab.png"
+      }
+   ],
+   "I am also familiar with": [
+      {
+         "name": "JWT",
+         "percent": 80,
+         "image": "languages/jwt.png"
+      },
+      {
+         "name": "Sql Database",
+         "percent": 80,
+         "image": "languages/database.png"
+      },
+      {
+         "name": "Jira",
+         "percent": 70,
+         "image": "others/jira.png"
+      },
+      {
+         "name": "Word",
+         "percent": 80,
+         "image": "others/word.png"
+      },
+      {
+         "name": "github",
+         "percent": 70,
+         "image": "others/github.png"
+      },
+      {
+         "name": "Google Docs",
+         "percent": 80,
+         "image": "others/docs.png"
+      },
+      {
+         "name": "Coding",
+         "percent": 75,
+         "image": "others/coding.png"
+      },
+      {
+         "name": "REST",
+         "percent": 80,
+         "image": "others/rest.png"
+      },
+      {
+         "name": "After Effects",
+         "percent": 60,
+         "image": "others/ae.png"
+      },
+      {
+         "name": "Adobe Premier",
+         "percent": 60,
+         "image": "others/ap.png"
+      }
+   ]
+}

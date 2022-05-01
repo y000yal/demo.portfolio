@@ -1,0 +1,35 @@
+[
+   {
+      "name":"Genius Systems Pvt. Ltd.",
+      "position": "Software Developer",
+      "logo": "https://geniussystems.com.np/wp-content/uploads/2021/09/Vector.svg",
+      "start_date": "2021-07-01 00:00:00",
+      "end_date": "",
+      "job_type": "Full Time",
+      "currently_working": true,
+      "description": "I work as a Software Developer here with an excellent group of team members.",
+      "website": "https://geniussystems.com.np/"
+   },
+   {
+      "name":"CodeCater Pvt. Ltd",
+      "position": "Backend Developer",
+      "logo": "https://codecater.com/resources/images/logo/logo_final.webp",
+      "start_date": "2019-11-01 00:00:00",
+      "end_date": "2021-07-01 00:00:00",
+      "job_type": "Full Time",
+      "currently_working": false,
+      "description": "I worked as a Backend Developer here and worked on multiple exciting and intriguing projects.",
+      "website": "https://codecater.com/"
+   },
+   {
+      "name":"CloudFactory",
+      "position": "Data Entry Assistant",
+      "logo": "https://www.cloudfactory.com.np/wp-content/uploads/2018/03/cf-combined-logo_2000x1800.png",
+      "start_date": "2018-10-01 00:00:00",
+      "end_date": "2019-07-01 00:00:00",
+      "job_type": "Full Time, Part Time",
+      "currently_working": false,
+      "description": "I worked as a data entry assistant here working on multiple projects to feed AI systems like DataLoop, Pilot, GSC etc",
+      "website": "https://www.cloudfactory.com/"
+   }
+]

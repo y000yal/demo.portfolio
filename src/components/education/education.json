@@ -1,0 +1,29 @@
+[
+   {
+      "name": "ACME Engineering College",
+      "location": "Kathmandu, Sitapaila",
+      "start_date": "2014-11-01",
+      "end_date": "2018-11-01",
+      "image": "others/acme-me.jpeg",
+      "color": "indigo lighten-2",
+      "icon": "mdi-alpha-a"
+   },
+   {
+      "name": "Xavier International College",
+      "location": "Kathmandu, Kalopul",
+      "start_date": "2012-05-01",
+      "end_date": "2014-04-01",
+      "image": "others/xavier-building.jpg",
+      "color": "blue darken-1",
+      "icon": "mdi-alpha-x"
+   },
+   {
+      "name": "Vidhya Sadan High School",
+      "location": "Kathmandu, Chabahil",
+      "start_date": "",
+      "end_date": "2012-03-01",
+      "image": "others/vshs.png",
+      "color": "green darken-1",
+      "icon": "mdi-alpha-v"
+   }
+]

@@ -1,0 +1,47 @@
+[
+   {
+      "name": "",
+      "component_name": "About",
+      "icon": "mdi-apps-box",
+      "image": "others/me.png",
+      "to": {
+         "name": "about"
+      }
+   },
+   {
+      "name": "Projects",
+      "component_name": "Project",
+      "icon": "mdi-apps-box",
+      "image": "others/projects.png",
+      "to": {
+         "name": "projects"
+      }
+   },
+   {
+      "name": "Experience",
+      "component_name": "Experience",
+      "icon": "mdi-laptop",
+      "image": "others/experience.png",
+      "to": {
+         "name": "experience"
+      }
+   },
+   {
+      "name": "Stacks",
+      "component_name": "Stack",
+      "icon": "mdi-stack",
+      "image": "others/coding.png",
+      "to": {
+         "name": "stack"
+      }
+   },
+   {
+      "name": "Education",
+      "component_name": "Education",
+      "icon": "mdi-school",
+      "image": "others/school.png",
+      "to": {
+         "name": "education"
+      }
+   }
+]

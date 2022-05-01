@@ -1,0 +1,177 @@
+[
+   {
+      "name": "Ipcam",
+      "link": "",
+      "title": "An Inventory System for Security cameras with package and Subscriber Management System.",
+      "description": "Ipcam is basically a Subscriber ,Package and Inventory Management System for Security Cameras. It also consists of multi vendor camera management with its own unique business logic.",
+      "bullets": [
+         "Created Vendor and Owners Management.",
+         "Complete Custom and unique Package Management System.",
+         "Subscriber Management and package assignment system",
+         "Roles and Permission middleware.",
+         "Passport oauth and jwt authentication"
+      ],
+      "image": "projects/ipcam.png",
+      "company": "Genius Systems Pvt Ltd",
+      "currently_working": true,
+      "status": "development",
+      "color": "#1f2937",
+      "text_color": "#ffffff",
+      "type": ["API"],
+      "tags": [
+         "PHP",
+         "Lumen",
+         "REST",
+         "Composer",
+         "Spatie",
+         "Passport",
+         "JWT",
+         "DOcker",
+         "GitLab",
+         "Rancher"
+      ],
+      "services": [],
+      "start_date": "2022-08-01",
+      "end_date": ""
+   },
+   {
+      "name": "NetTv",
+      "link": "https://nettv.com.np",
+      "title": "Leading OTT and Streaming Platform in Nepal. My involvement was primarily on fixes,patches and feature updates.",
+      "description": "NETTV is a first OTT/IPTV Platform in Nepal having Nepal Government license to Operate IPTV. NETTV is operated under NITV STREAMZ PVT LTD with company located Jawalakhel, Lalitpur. Being the team of market leaders in streaming and triple play multiscreen device delivery solution, NETTV will focus to develop open platform where anyone can bring their contents to sell and make the business partnering with us. We are always looking for Win-Win business among all possible partners. Distribution cloud is through ISPs locally that will ensure quality and full HD delivery without any additional internet traffic for clients. NETTV has always believed that anything you want to watch, listen to, and enjoy should simply be there on your TV, whenever you want it. Our IPTV streaming platforms are renowned for their simplicity, variety of entertainment choices, and exceptional value.",
+      "bullets": [
+         "Created Dynamic Config System",
+         "Created Email Registration and password reset feature for specifically deployed project (Shangree.la)."
+      ],
+      "image": "projects/nettv.png",
+      "company": "Genius Systems Pvt Ltd",
+      "currently_working": true,
+      "status": "live",
+      "color": "#1e6da3",
+      "text_color": "#ffffff",
+      "type": ["API"],
+      "tags": [
+         "PHP",
+         "Lumen",
+         "REST",
+         "Composer"
+      ],
+      "services": [
+         {
+            "name": "Dynamic Config Package",
+            "link": "https://github.com/y000yal/dynamic-config",
+            "title": "A simple package to allow and use dynamic configs with easy installation using composer.",
+            "description": "This package was built because of the necessity to move configs such as Terms and Conditions, Privacy and Policy and other custom configs that needed to be set, use and managed dynamically from a single resource.",
+            "tags": [
+               "PHP",
+               "Lumen",
+               "REST",
+               "Composer"
+            ],
+            "status": "live",
+            "start_date": "2022-06-01",
+            "end_date": "2022-06-10",
+            "currently_working": false
+         },
+         {
+            "name": "User Registration System for Shangreela",
+            "link": "shangree.la",
+            "title": "User Registration using email and Password Reset.",
+            "description": "Added a new email registration and forgot password feature with ttl for token sent to the users email.",
+            "tags": [
+               "PHP",
+               "Lumen",
+               "REST",
+               "Composer"
+            ],
+            "status": "live",
+            "start_date": "2022-06-01",
+            "end_date": "2022-06-10",
+            "currently_working": false
+         }
+      ],
+      "start_date": "2022-06-01",
+      "end_date": ""
+   },
+   {
+      "name": "Nepali Patro",
+      "link": "https://nepalipatro.com.np/",
+      "title": "Leading online Patro Service in Nepal. My involvement was primarily on adding a new feature microservice called marketplace.",
+      "description": "Nepali Patro - A complete ‘Nepali Calendar’ is online/digital traditional Lunar Calendar (Bikram Sambat / Vikram Samvat Calendar) 2078 BS. It keeps track of detailed authentic information about important dates, national events, Nepali Culture, Nepali Festivals, Vedic Sanatan Hindu activities, Nepali traditions, and rituals. It is full of information related to festivals and cultural activities of all castes of Nepal in our own Nepali language. Nepal’s first mobile app/application is available in all the platform i.e. Website, iOS & Android .",
+      "image": "projects/np.png",
+      "company": "Genius Systems Pvt Ltd",
+      "status": "beta",
+      "color": "#bf360c",
+      "text_color": "#ffffff",
+      "type": ["API"],
+      "currently_working": true,
+      "tags": [
+         "PHP",
+         "Lumen",
+         "REST",
+         "Composer",
+         "DOcker",
+         "GitLab",
+         "Rancher"
+      ],
+      "services": [{
+         "name": "MarketPlace",
+         "link": "",
+         "title": "An entire backend Microservice to sell InHouse and ThirdParty Services to customers.",
+         "description": "This system was first and foremost a proxy to add khalti service in nepali patro. This was later updated and features to add and authenticate new clients and their service were added. Now the system uses magento as a inventory system for storing InHouse services and a service management system to store and use third party services like khalti services. \n This allows the system to stay in the middle and communicate with frontend and third party like magento and khalti services. ",
+         "bullets": [
+            "Created custom user as well as role management system from ground up.",
+            "Created dynamic Content as well as menu management for the system.",
+            "Improvement and addition on social logins including google and facebook."
+         ],
+         "start_date": "2022-06-01",
+         "end_date": "2022-06-10",
+         "currently_working": false,
+         "status": "beta",
+         "tags": [
+            "PHP",
+            "Lumen",
+            "Rest",
+            "Passport",
+            "JWT",
+            "Magento",
+            "Khalti Services"
+         ]
+      }],
+      "start_date": "2022-06-01",
+      "end_date": ""
+   },
+   {
+      "name": "SmartBus",
+      "link": "https://smartbus.com.np/",
+      "title": "A sophisticated however simple to use solution for Bus Travellers of Nepal.",
+      "description": "A huge Project where I was involved in backend and frontend as well throughout the project on system design as well as on pure programming logic. A system with the capability of multi vendors, multi users and multi transit booking.",
+      "bullets": [
+         "Created custom user as well as role management system from ground up.",
+         "Created dynamic Content as well as menu management for the system.",
+         "Improvement and addition on social logins including google and facebook."
+      ],
+      "image": "projects/smartbus.png",
+      "company": "CodeCater Pvt Ltd",
+      "currently_working": false,
+      "status": "beta",
+      "color": "#26c6da",
+      "text_color": "#ffffff",
+      "type": ["API"],
+      "tags": [
+         "PHP",
+         "Yii2",
+         "Composer",
+         "Cpanel",
+         "BootStrap",
+         "Html",
+         "Css",
+         "Js",
+         "Ajax",
+         "JQuery"
+      ],
+      "services": [],
+      "start_date": "2022-08-01",
+      "end_date": ""
+   }
+]
